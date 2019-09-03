@@ -53,3 +53,8 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+.idea/$CACHE_FILE$
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/*
+
